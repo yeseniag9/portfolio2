@@ -22,3 +22,8 @@ html {
     font-size: 62.5%;
     overflow: hidden;
 }
+
+body {
+    background: var(--bg-color);
+    color: var(--text-color);
+}
