@@ -53,7 +53,7 @@ body {
     font-weight: 500;
     margin-left: 3.5rem;
     transition: .3s;
-    padding: 10px;
+    padding-bottom: 10px;
 }
 
 .navbar a:hover {
