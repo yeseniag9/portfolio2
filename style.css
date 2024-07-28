@@ -57,7 +57,7 @@ body {
 
 .navbar a:hover,
 .navbar a.active {
-    color: var(--main-color);
+    color: green;
     border-bottom: var(--main-color);
 }
 
