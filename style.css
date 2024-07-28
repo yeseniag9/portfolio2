@@ -61,7 +61,7 @@ body {
 
 .navbar a.active {
     color: var(--main-color);
-    padding-bottom: 10px;
+    padding-bottom: 7px;
     border-bottom-style: solid;
     border-bottom-width: 2px;
     width: fit-content;
