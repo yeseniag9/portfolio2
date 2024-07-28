@@ -53,7 +53,6 @@ body {
     font-weight: 500;
     margin-left: 3.5rem;
     transition: .3s;
-    padding-bottom: 30px;
 }
 
 .navbar a:hover {
@@ -62,7 +61,10 @@ body {
 
 .navbar a.active {
     color: var(--main-color);
-    text-decoration: 2px underline;
+    padding-bottom: 15px;
+    border-bottom-style: solid;
+    border-bottom-width: 3.1px;
+    width: fit-content;
 }
 
 #menu-icon {
