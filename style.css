@@ -39,6 +39,7 @@ body {
     justify-content: space-between;
     align-items: center;
     z-index: 100;
+    padding-bottom: 10px;
 }
 
 .logo {
@@ -53,7 +54,6 @@ body {
     font-weight: 500;
     margin-left: 3.5rem;
     transition: .3s;
-    padding-bottom: 10px;
 }
 
 .navbar a:hover {
